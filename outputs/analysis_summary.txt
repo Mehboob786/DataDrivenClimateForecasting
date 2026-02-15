@@ -1,0 +1,10 @@
+Climate trend analysis summary
+Input file: data/raw/GlobalTemperatures.csv
+Rows used (yearly): 266
+Train years: 256
+Test years: 10
+Selected model: quadratic
+Backtest MAE: 0.2516
+Backtest RMSE: 0.2751
+Forecast horizon: 30 years
+Confidence level: 0.95
